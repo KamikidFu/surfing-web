@@ -1,5 +1,6 @@
 # surfing-web
 
+## Database Feeding
 -- DROP Tables to clean up all of them
 DROP TABLE IF EXISTS Users;
 DROP TABLE IF EXISTS Tips;
