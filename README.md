@@ -1,7 +1,7 @@
 # surfing-web
 
 ## Description
-A sample PWA project
+A sample PWA project.
 
 ## Database Feeding
 -- DROP Tables to clean up all of them
